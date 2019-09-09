@@ -4,7 +4,7 @@ import './App.css'
 export default class App extends Component {
   state = {
     number : 1,
-    color: "rgb(1,0,0)"
+    color: "rgb(1,5,0)"
   }
 
   buttonClicked = () => {
